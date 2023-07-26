@@ -1,0 +1,23 @@
+{
+  "name": "projectnode",
+  "version": "1.0.0",
+  "description": "just for try",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node form.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnanthaBabuP/projectnode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnanthaBabuP/projectnode/issues"
+  },
+  "homepage": "https://github.com/AnanthaBabuP/projectnode#readme",
+  "dependencies": {
+    "formidable": "^3.5.0"
+  }
+}
